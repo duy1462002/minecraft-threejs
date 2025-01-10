@@ -1,0 +1,72 @@
+{
+	"credit": "Made for Realism Mats Texture Pack",
+	"parent": "minecraft:block/cross",
+	"textures": {
+		"cross": "block/nether_sprouts"
+	},
+	"elements": [
+		{
+			"from": [3.4, 0, 8.1],
+			"to": [12.4, 11, 8.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.9, 5.5, 8.1]},
+			"faces": {
+				"north": {"uv": [1.485, 0.001, 15.312, 16], "texture": "#cross"},
+				"south": {"uv": [15.203, 0.001, 1.594, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [7.9, 0, 3.6],
+			"to": [7.9, 11, 12.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.9, 5.5, 8.1]},
+			"faces": {
+				"east": {"uv": [3.844, 3.266, 13.859, 16], "texture": "#cross"},
+				"west": {"uv": [15.312, 0.313, 1.485, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [2.4, 0, 8.1],
+			"to": [11.4, 11, 8.1],
+			"rotation": {"angle": 45, "axis": "y", "origin": [5.9, 5.5, 8.1]},
+			"faces": {
+				"north": {"uv": [1.485, 0.001, 15.312, 16], "texture": "#cross"},
+				"south": {"uv": [15.203, 0.001, 1.594, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [2.4, 0, 13.1],
+			"to": [11.4, 11, 13.1],
+			"rotation": {"angle": 45, "axis": "y", "origin": [5.9, 5.5, 8.1]},
+			"faces": {
+				"north": {"uv": [1.485, 0.001, 15.312, 16], "texture": "#cross"},
+				"south": {"uv": [15.203, 0.001, 1.594, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [6.9, 0, 3.6],
+			"to": [6.9, 11, 12.6],
+			"rotation": {"angle": 45, "axis": "y", "origin": [6.9, 5.5, 8.1]},
+			"faces": {
+				"east": {"uv": [15.312, 0.313, 1.485, 16], "texture": "#cross"},
+				"west": {"uv": [3.844, 3.266, 13.859, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [5.6, 0, 6.1],
+			"to": [14.6, 11, 6.1],
+			"rotation": {"angle": -45, "axis": "y", "origin": [10.1, 5.5, 6.1]},
+			"faces": {
+				"north": {"uv": [1.485, 0.001, 15.312, 16], "texture": "#cross"},
+				"south": {"uv": [15.203, 0.001, 1.594, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [5.6, 0, 12.1],
+			"to": [14.6, 11, 12.1],
+			"rotation": {"angle": -45, "axis": "y", "origin": [10.1, 5.5, 6.1]},
+			"faces": {
+				"north": {"uv": [1.485, 0.001, 15.312, 16], "texture": "#cross"},
+				"south": {"uv": [15.203, 0.001, 1.594, 16], "texture": "#cross"}
+			}
+		}
+	]
+}

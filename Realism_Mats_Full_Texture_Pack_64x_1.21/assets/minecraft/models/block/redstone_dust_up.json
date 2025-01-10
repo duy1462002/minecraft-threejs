@@ -1,0 +1,50 @@
+{
+	"credit": "Made for Realism Mats Texture Pack",
+	"textures": {
+		"5": "block/rm_redstone/wire",
+		"particle": "block/rm_redstone/boxes"
+	},
+	"elements": [
+		{
+			"name": "on",
+			"from": [7.9, 0.38537, 0.38537],
+			"to": [8.1, 16.38537, 0.58537],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.5, 7.95, 8.13537]},
+			"faces": {
+				"north": {"uv": [6.5, 15.9, 9.094, 10.204], "rotation": 90, "texture": "#5"},
+				"east": {"uv": [3.138, 15.993, 2.829, 0], "texture": "#5", "tintindex": 0},
+				"south": {"uv": [3.169, 0, 2.876, 15.993], "rotation": 180, "texture": "#5", "tintindex": 0},
+				"west": {"uv": [3.138, 0, 2.829, 15.993], "rotation": 180, "texture": "#5", "tintindex": 0},
+				"up": {"uv": [6.5, 15.9, 9.297, 10.328], "texture": "#5"},
+				"down": {"uv": [6.5, 15.9, 9.094, 10.297], "rotation": 180, "texture": "#5"}
+			}
+		},
+		{
+			"name": "on",
+			"from": [7.9, 16.39, 0],
+			"to": [8.1, 16.59, 0.59],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.5, 8.05, 8.13537]},
+			"faces": {
+				"north": {"uv": [6.5, 10.297, 9.094, 15.9], "texture": "#5"},
+				"east": {"uv": [2.844, 15.141, 3.153, 15.852], "rotation": 270, "texture": "#5", "tintindex": 0},
+				"south": {"uv": [6.5, 10.328, 9.297, 15.9], "texture": "#5"},
+				"west": {"uv": [2.844, 15.141, 3.153, 15.852], "rotation": 270, "texture": "#5", "tintindex": 0},
+				"up": {"uv": [2.844, 15.141, 3.2, 15.852], "texture": "#5", "tintindex": 0},
+				"down": {"uv": [9.094, 15.9, 6.5, 10.204], "rotation": 270, "texture": "#5"}
+			}
+		},
+		{
+			"from": [7.5, 0.38537, 0],
+			"to": [8.5, 16.38537, 0.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16.1, 7.95, 7.93537]},
+			"faces": {
+				"north": {"uv": [6.5, 15.9, 9.297, 10.36], "rotation": 270, "texture": "#5"},
+				"east": {"uv": [6.5, 15.9, 9.297, 10.157], "rotation": 90, "texture": "#5"},
+				"south": {"uv": [5.501, 15.994, 4.376, 0], "texture": "#5", "tintindex": 0},
+				"west": {"uv": [6.5, 15.9, 9.297, 10], "rotation": 270, "texture": "#5"},
+				"up": {"uv": [4.407, 14.885, 5.454, 14.297], "texture": "#5"},
+				"down": {"uv": [6.5, 15.9, 9.094, 10.266], "rotation": 180, "texture": "#5"}
+			}
+		}
+	]
+}

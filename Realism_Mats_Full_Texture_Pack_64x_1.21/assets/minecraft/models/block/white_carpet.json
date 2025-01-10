@@ -1,0 +1,23 @@
+{
+	"credit": "Made for Realism Mats Texture Pack",
+	"parent": "block/carpet",
+	"textures": {
+		"1": "block/white_carpet_sides",
+		"wool": "block/white_carpet",
+		"particle": "block/white_carpet"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 1, 16],
+			"faces": {
+				"north": {"uv": [0, 14.922, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 14.922, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 14.922, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 14.922, 16, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#wool"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#wool"}
+			}
+		}
+	]
+}

@@ -1,0 +1,81 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cross",
+	"textures": {
+        "particle": "#cross"
+    },
+	"elements": [
+		{
+			"from": [2, 0, 8],
+			"to": [14, 11, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5.5, 8]},
+			"faces": {
+				"north": {"uv": [2, 5, 14, 16], "texture": "#cross"},
+				"south": {"uv": [2, 5, 14, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [2, 0, 8],
+			"to": [14, 11, 8],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 5.5, 8]},
+			"faces": {
+				"north": {"uv": [2, 5, 14, 16], "texture": "#cross"},
+				"south": {"uv": [2, 5, 14, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [2, 0, 8],
+			"to": [14, 11, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 5.5, 8]},
+			"faces": {
+				"north": {"uv": [2, 5, 14, 16], "texture": "#cross"},
+				"south": {"uv": [2, 5, 14, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [8, 0, 2],
+			"to": [8, 11, 14],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 5.5, 8]},
+			"faces": {
+				"east": {"uv": [2, 5, 14, 16], "texture": "#cross"},
+				"west": {"uv": [2, 5, 14, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [8, 0, 2],
+			"to": [8, 11, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5.5, 8]},
+			"faces": {
+				"east": {"uv": [2, 5, 14, 16], "texture": "#cross"},
+				"west": {"uv": [2, 5, 14, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [8, 0, 2],
+			"to": [8, 11, 14],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 5.5, 8]},
+			"faces": {
+				"east": {"uv": [2, 5, 14, 16], "texture": "#cross"},
+				"west": {"uv": [2, 5, 14, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [8, 0, 2],
+			"to": [8, 11, 14],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 5.5, 8]},
+			"faces": {
+				"east": {"uv": [2, 5, 14, 16], "texture": "#cross"},
+				"west": {"uv": [2, 5, 14, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [2, 0, 8],
+			"to": [14, 11, 8],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 5.5, 8]},
+			"faces": {
+				"north": {"uv": [2, 5, 14, 16], "texture": "#cross"},
+				"south": {"uv": [2, 5, 14, 16], "texture": "#cross"}
+			}
+		}
+	]
+}

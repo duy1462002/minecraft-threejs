@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/deepslate_tiles" },
+            { "model": "block/deepslate_tiles", "y": 90 },
+            { "model": "block/deepslate_tiles", "y": 180 },
+            { "model": "block/deepslate_tiles", "y": 270 }
+        ]
+    }
+}

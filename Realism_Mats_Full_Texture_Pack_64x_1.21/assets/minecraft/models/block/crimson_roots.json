@@ -1,0 +1,45 @@
+{
+	"credit": "Made for Realism Mats Texture Pack",
+	"parent": "minecraft:block/cross",
+	"textures": {
+		"cross": "block/crimson_roots"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 3],
+			"to": [8, 11, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 11.5]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [4.4, 0, 7.1],
+			"to": [13.4, 11, 7.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.9, 5.5, 7.1]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [3.1, -0.4, 4.7],
+			"to": [12.1, 10.6, 4.7],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.6, 5.1, 4.7]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [3.1, -0.4, 9.5],
+			"to": [12.1, 10.6, 9.5],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.6, 5.1, 9.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+			}
+		}
+	]
+}

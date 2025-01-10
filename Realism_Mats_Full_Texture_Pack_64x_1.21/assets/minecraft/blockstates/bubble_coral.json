@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/bubble_coral" },
+            { "model": "block/bubble_coral", "y": 90 },
+            { "model": "block/bubble_coral", "y": 180 },
+            { "model": "block/bubble_coral", "y": 270 }
+        ]
+    }
+}

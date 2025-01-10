@@ -1,0 +1,16 @@
+{
+	"credit": "Made for Realism Mats Texture Pack",
+	"textures": {
+		"particle": "block/composter_composting",
+		"inside": "block/composter_composting"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 13, 14],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#inside", "cullface": "up"}
+			}
+		}
+	]
+}

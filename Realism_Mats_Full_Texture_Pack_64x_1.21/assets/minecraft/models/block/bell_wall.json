@@ -1,0 +1,22 @@
+{
+	"credit": "Made for Realism Mats Texture Pack",
+	"textures": {
+		"1": "block/dark_oak_log_top",
+		"bar": "block/dark_oak_planks",
+		"particle": "block/dark_oak_log_top"
+	},
+	"elements": [
+		{
+			"from": [3, 13, 7],
+			"to": [16, 15, 9],
+			"faces": {
+				"north": {"uv": [0, 2.813, 16, 5.297], "texture": "#bar"},
+				"east": {"uv": [2.625, 2.813, 0, 5.297], "texture": "#bar"},
+				"south": {"uv": [16, 2.813, 0, 5.297], "texture": "#bar"},
+				"west": {"uv": [11.735, 4.969, 4.907, 11.421], "texture": "#1"},
+				"up": {"uv": [16, 2.813, 0, 5.297], "texture": "#bar"},
+				"down": {"uv": [16, 2.813, 0, 5.297], "texture": "#bar"}
+			}
+		}
+	]
+}

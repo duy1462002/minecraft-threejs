@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/amethyst_block" },
+            { "model": "block/amethyst_block", "y": 90 },
+            { "model": "block/amethyst_block", "y": 180 },
+            { "model": "block/amethyst_block", "y": 270 }
+        ]
+    }
+}

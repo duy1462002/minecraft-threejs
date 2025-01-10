@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/cyan_concrete" },
+            { "model": "block/cyan_concrete", "y": 90 },
+            { "model": "block/cyan_concrete", "y": 180 },
+            { "model": "block/cyan_concrete", "y": 270 }
+        ]
+    }
+}

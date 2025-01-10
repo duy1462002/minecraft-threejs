@@ -1,0 +1,28 @@
+{
+	"credit": "Made for Realism Mats Texture Pack",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/mangrove_propagule",
+		"sapling": "block/mangrove_propagule"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 3],
+			"to": [8, 16, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 3]},
+			"faces": {
+				"east": {"uv": [2.76563, 0, 12.76563, 16], "texture": "#sapling"},
+				"west": {"uv": [12.76563, 0, 2.76563, 16], "texture": "#sapling"}
+			}
+		},
+		{
+			"from": [2.75, 0, 7.75],
+			"to": [12.75, 15.25, 7.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [12.76563, 0, 2.76563, 16], "texture": "#sapling"},
+				"south": {"uv": [2.76563, 0, 12.76563, 16], "texture": "#sapling"}
+			}
+		}
+	]
+}
